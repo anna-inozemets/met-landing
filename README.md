@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# MET landing page
+• Technologies: HTML5 / CSS(SCSS/SASS) / JS
+  - Mainly I have used HTML and CSS(SCSS/SASS). I also have used JavaScript to override the default behavior of the form and some decorative elements on the page.
+• Click [here](https://anna-inozemets.github.io/met-landing/) to see the page
+• Click [here](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET?node-id=8590%3A29) to see the layout of MET landing page
